@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PWang23
+- 👋 Hi, I’m @Peter(Yuanzhe) Wang
 - 👀 I’m interested in Programming, Finance and Bsketball.
 - 🌱 I’m currently learning Java and CFA.
 - 📫 yuanzhe.wang23@gmail.com
