@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter(Yuanzhe) Wang
-- 👀 I’m interested in Programming, Finance and Bsketball.
+- 👀 I’m interested in Programming, Finance and Basketball.
 - 🌱 I’m currently learning Java, Python and C++.
 - 📫 yuanzhe.wang23@gmail.com
 
